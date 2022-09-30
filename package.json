@@ -1,0 +1,23 @@
+{
+  "name": "book_diretory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acarnevali/book_diretory.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acarnevali/book_diretory/issues"
+  },
+  "homepage": "https://github.com/acarnevali/book_diretory#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
